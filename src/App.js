@@ -3,7 +3,10 @@ import ReactDOM from 'react-dom/client';
 
 const AppLayout=()=>{
     return(
+        <>
         <h1>React Started</h1>
+        <h1>MyLord for git</h1>
+        </>
     )
 }
 
