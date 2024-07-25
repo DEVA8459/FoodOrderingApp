@@ -57,7 +57,7 @@ state without impacting any branches by switching back to a branch.
 
 ## to switch that branch 
 1. git checkout dev
-2. or we can directly create and switch branch 
+2. or we can directly create and switch branch giy 
     1. git checkout -b dev
 
 ## to merge 2 branch 
@@ -72,7 +72,6 @@ state without impacting any branches by switching back to a branch.
 ## to push other branch 
 1. switch to other branch
 2. git push -u origin nameofbranch
-
 
 
 
